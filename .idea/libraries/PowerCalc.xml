@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PowerCalc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PowerCalc/out/artifacts/PowerCalc_jar/PowerCalc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
